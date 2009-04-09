@@ -1,0 +1,4 @@
+= Fiscal Year Calculations
+
+This library consists of a few helper methods that extend the Time object to allow for fiscal year context calculations.
+It's currently designed to work inside of a rails environment, but I'll change that when I get the time.
